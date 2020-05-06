@@ -1,0 +1,11 @@
+vv####vvv
+vv#vv#vvv
+vv#vv##vv
+vv#0$v###
+vv#0v$vv#
+###0##vv#
+#v$vvvv##
+####vvv#
+vv######
+
+
